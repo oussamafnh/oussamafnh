@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/025582bc-a5ba-47a1-80c4-b15af4adbb10)# Oussama Fannah
+# Oussama Fannah
 
 ![Banner](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727835161/kf2wzb2z1rmu0rabmdiq.gif)
 
@@ -27,7 +27,7 @@
 
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 55%;">
+  <div style="flex: 100%;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamafnh&theme=github_dark" alt="Oussama's GitHub Summary" />
   </div>
   <div style="flex: 35%;">
