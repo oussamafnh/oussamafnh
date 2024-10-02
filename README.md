@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/025582bc-a5ba-47a1-80c4-b15af4adbb10)# Oussama Fannah
+# Oussama Fannah
 
 ![Banner](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727835161/kf2wzb2z1rmu0rabmdiq.gif)
 
@@ -23,10 +23,11 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=XPdRFanRZtNK&format=png&color=FF0000" alt="Django" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
 </p>
 
 
-<div style="display: flex; align-items: center;">
-  <img  style="flex: 55%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamafnh&theme=github_dark" alt="Oussama's GitHub Summary" />
-  <img style="flex: 35%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oussamafnh&theme=github_dark" alt="Oussama's Language Summary" />
+<div align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamafnh&theme=github_dark" alt="Oussama's GitHub Summary" />
 </div>
