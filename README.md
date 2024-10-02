@@ -1,6 +1,7 @@
 # Oussama Fannah
 
-![Banner]([https://link-to-your-image](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727835161/kf2wzb2z1rmu0rabmdiq.gif))
+![Banner](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727835161/kf2wzb2z1rmu0rabmdiq.gif)
+
 
 **Full Stack Developer & Tech Enthusiast**
 
