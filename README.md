@@ -25,5 +25,4 @@
 
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={oussamafnh}&theme={github_dark}
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamafnh&theme=github_dark
+![Oussama's GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamafnh&theme=github_dark)
