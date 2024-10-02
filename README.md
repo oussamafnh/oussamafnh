@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on full stack development projects.
 - 🌱 I’m learning advanced Node.js and React frameworks.
 - 💬 Ask me about JavaScript, PHP, MySQL, and Cloud technologies.
-- 📫 How to reach me: [your-email@example.com](mailto:fannahoussama4@gmail.com)
+- 📫 How to reach me: [fannahoussama4@gmail.com](mailto:fannahoussama4@gmail.com)
 - 🌐 Portfolio: [oussamafnh.xyz](https://www.oussamafnh.xyz)
 
 
@@ -27,7 +27,7 @@
 
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 65%;">
+  <div style="flex: 55%;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamafnh&theme=github_dark" alt="Oussama's GitHub Summary" />
   </div>
   <div style="flex: 35%;">
