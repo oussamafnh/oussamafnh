@@ -2,9 +2,6 @@
 
 # Full Stack Developer & Tech Enthusiast
 
-/*- 🔭 I’m currently working on full stack development projects.*/
-- 🌱 I’m learning advanced Node.js and React frameworks.
-- 💬 Ask me about JavaScript, PHP, MySQL, and Cloud technologies.
 - 📫 How to reach me: [fannahoussama4@gmail.com](mailto:fannahoussama4@gmail.com)
 - 🌐 Portfolio: [oussamafnh.xyz](https://www.oussamafnh.xyz)
 
